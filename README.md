@@ -1,2 +1,2 @@
-# media
-Flyers and such
+# Media
+## Flyers, ads and whatnot
